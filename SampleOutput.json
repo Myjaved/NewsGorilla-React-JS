@@ -1,0 +1,45 @@
+{
+    "status": "ok",
+    "totalResults": 3,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "CBS Sports"
+            },
+            "author": "",
+            "title": "College football picks, schedule: Predictions against the spread, odds for top 25 games in Week 7 - CBS Sports",
+            "description": "A closer look at the top games for the seventh week of the 2022 college football season",
+            "url": "https://www.cbssports.com/college-football/news/college-football-picks-schedule-predictions-against-the-spread-odds-for-top-25-games-in-week-7/",
+            "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/10/14/5d9daaaa-91f3-4343-8e85-7c5a78300080/thumbnail/1200x675/2f6506d3fa8e61c11d4e1d610a25b958/caleb-williams-usc-getty.png",
+            "publishedAt": "2022-10-15T11:30:00Z",
+            "content": "The midway point of the 2022 college football season is upon us with Separation Saturday ahead in Week 7. With six games between top-25 opponents on deck, there is no doubt that College Football Play… [+5202 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Zach Crizer",
+            "title": "Same Phillies, new era: How Aaron Nola, Rhys Hoskins and Bryce Harper emphatically turned the page in Game 3 win - Yahoo Sports",
+            "description": "The Phillies who felt the heat of unfulfilled expectations came through in a big way when playoff baseball returned to Citizens Bank Park.",
+            "url": "https://sports.yahoo.com/same-phillies-new-era-how-aaron-nola-rhys-hoskins-and-bryce-harper-emphatically-turned-the-page-in-game-3-win-024609341.html",
+            "urlToImage": "https://s.yimg.com/ny/api/res/1.2/hyANIgHTIBpIffHC5vJFEQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2022-10/b0e2d3f0-4c30-11ed-8ff7-d1ce1de453a9",
+            "publishedAt": "2022-10-15T03:46:00Z",
+            "content": "Philadelphia is the City of Brotherly Love, but it could also be described as the City of Tough Love. For the past decade, the Phillies have been desperately striving for approval, but earning only e… [+5768 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "Paul P. Murphy",
+            "title": "DeSantis migrant relocation program planned to transport '100 or more' to Delaware, Illinois, documents obtained by CNN show - CNN",
+            "description": "Florida Gov. Ron DeSantis' migrant relocation program planned to transport \"approximately 100 or more\" migrants to Delaware and Illinois between September 19 and October 3, according to documents obtained by CNN through a public records request.",
+            "url": "https://www.cnn.com/2022/10/14/politics/desantis-migrant-relocation-delaware-illinois/index.html",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220916204412-ron-desantis-file-0916.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2022-10-15T00:48:00Z",
+            "content": "Florida Gov. Ron DeSantis migrant relocation program planned to transport approximately 100 or more migrants to Delaware and Illinois between September 19 and October 3, according to documents obtain… [+2069 chars]"
+        }
+    ]
+}
